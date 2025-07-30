@@ -11,6 +11,8 @@ A machine learning-powered web application that predicts employee salaries based
 - **Real-time Processing**: Instant predictions with confidence scores
 - **Visual Insights**: Progress bars, metrics, and organized data presentation
 
+- Dataset and notebook file is added for reference
+
 ## Installation 📦
 
 1. Clone the repository:
